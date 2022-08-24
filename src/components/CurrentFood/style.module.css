@@ -1,7 +1,10 @@
 .foode {
-  display: block;
+  display: flex;
   width: 100%;
 }
-.button {
-  margin: 10px;
+img {
+  margin: 0 20px;
+}
+button {
+  height: 30px;
 }

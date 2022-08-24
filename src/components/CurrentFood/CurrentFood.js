@@ -13,8 +13,8 @@ const CurrentFood = (props) => {
         width="100px"
         height="100px"
       ></img>
-      <button className={styl.button}>Нэмэх</button>
-      <button className={styl.button}>Хасах</button>
+      <button>Нэмэх</button>
+      <button>Хасах</button>
     </div>
   );
 };
