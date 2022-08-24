@@ -1,0 +1,11 @@
+.www {
+  display: flex;
+  flex-wrap: wrap;
+  width: 30%;
+  height: 650px;
+  overflow-y: scroll;
+  border: 1px solid black;
+  margin: 0 20px;
+  font-size: 10px;
+  padding: 30px;
+}
